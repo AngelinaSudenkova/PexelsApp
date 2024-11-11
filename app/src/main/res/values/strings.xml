@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pexels App</string>
+    <string name="splash_logo">Splash Logo</string>
+    <string name="no_data_available">No data available</string>
+    <string name="explore">Explore</string>
+    <string name="error">Error</string>
+    <string name="try_again">Try Again</string>
+    <string name="image_not_found">Image not found</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="error_loading_bookmarks">Error loading bookmarks: %1$s</string>
+    <string name="you_haven_t_saved_anything_yet">You haven\'t saved anything yet</string>
+    <string name="search">Search</string>
+    <string name="problem_icon">Problem Icon</string>
+    <string name="save">Save</string>
+    <string name="download">Download</string>
+
+</resources>

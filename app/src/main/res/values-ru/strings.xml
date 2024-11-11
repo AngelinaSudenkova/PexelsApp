@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pexels Приложение</string>
+    <string name="splash_logo">Логотип загрузки</string>
+    <string name="no_data_available">Данные не доступны</string>
+    <string name="explore">Исследовать</string>
+    <string name="error">Ошибка</string>
+    <string name="try_again">Попробовать снова</string>
+    <string name="image_not_found">Изображение не найдено</string>
+    <string name="bookmarks">Закладки</string>
+    <string name="error_loading_bookmarks">Ошибка загрузки закладок: %1$s</string>
+    <string name="you_haven_t_saved_anything_yet">Вы ещё ничего не сохранили</string>
+    <string name="search">Поиск</string>
+    <string name="problem_icon">Иконка ошибки</string>
+    <string name="save">Сохранить</string>
+    <string name="download">Скачать</string>
+</resources>
