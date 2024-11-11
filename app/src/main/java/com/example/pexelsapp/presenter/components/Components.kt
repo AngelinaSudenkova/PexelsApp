@@ -322,7 +322,7 @@ fun DownloadButton(onDownloadClick: () -> Unit) {
             Text(
                 text = stringResource(R.string.download),
                 style = MaterialTheme.typography.bodyMedium,
-                color = MaterialTheme.colorScheme.onBackground,
+                color = MaterialTheme.colorScheme.onPrimary,
                 fontSize = 12.sp
             )
             Spacer(modifier = Modifier.width(8.dp))
